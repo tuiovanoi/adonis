@@ -29,7 +29,10 @@ export default class MessageValidator {
     ]),
     message: schema.string({}, [
       rules.required()
-    ])
+    ]),
+    topic: schema.array().members(
+      schema.number()
+    )
   })
 
   /**
