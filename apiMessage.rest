@@ -14,10 +14,9 @@ Authorization: Bearer MzY._IpcLdMNytwk6p5PkAOe5-n9wCb405YQoD0q53RJhV3lcMxZ-T9_gR
 ######### Listar todos as Mensagens
 GET http://127.0.0.1:3333/messages HTTP/1.1
 Content-Type: application/json
-Authorization: Bearer MzY._IpcLdMNytwk6p5PkAOe5-n9wCb405YQoD0q53RJhV3lcMxZ-T9_gRHqmPg6
 
 ######### Listar Mensagem específica
-GET http://127.0.0.1:3333/messages/14 HTTP/1.1
+GET http://127.0.0.1:3333/messages/12 HTTP/1.1
 Content-Type: application/json
 Authorization: Bearer MzY._IpcLdMNytwk6p5PkAOe5-n9wCb405YQoD0q53RJhV3lcMxZ-T9_gRHqmPg6
 
