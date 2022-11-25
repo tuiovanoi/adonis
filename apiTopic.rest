@@ -4,7 +4,7 @@ Content-Type: application/json
 Authorization: Bearer MzY._IpcLdMNytwk6p5PkAOe5-n9wCb405YQoD0q53RJhV3lcMxZ-T9_gRHqmPg6
 
 {
-    "name": "Web1"
+    "name": "METALLICA"
 }
 
 ######### Listar todos os Tópico
@@ -24,7 +24,7 @@ Content-Type: application/json
 Authorization: Bearer MzY._IpcLdMNytwk6p5PkAOe5-n9wCb405YQoD0q53RJhV3lcMxZ-T9_gRHqmPg6
 
 {
-    "name": "Web II"
+    "name": "MEGADETH"
 }
 
 ######### Apagar Tópico
